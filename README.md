@@ -16,7 +16,21 @@
 - **Programming & Analytics:** Python, SQL, JavaScript, Java  
 - **Data Management:** ETL, Data Cleaning, Statistical Analysis, Reporting  
 - **Visualization Tools:** Tableau, Power BI  
-- **Other Tools:** Salesforce, MS Excel, Asana  
+- **Other Tools:** Salesforce, MS Excel, Asana
+
+  
+- <h3 align="left">🛠 Languages and Tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Excel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="Salesforce logo" />
+  </div>
 
 - 💬 Ask me about **Data Analysis, Visualization, and Python**
 - 🔗 Connect with Me:
