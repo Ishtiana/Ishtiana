@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtiana" alt="ishtiana" /></a> </p>
 
 - 🔭 I’m currently working on **Business Intelligence Dashboards**
-
+- 🔭 Currently working as a **Business Intelligence Intern** at BRAC Skills Development Programme.<br>
 - 🌱 I’m currently learning **Advanced SQL,Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ishtiana](https://github.com/Ishtiana)
@@ -27,9 +27,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Excel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="Salesforce logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="Salesforce logo" />
   </div>
 
 - 💬 Ask me about **Data Analysis, Visualization, and Python**
@@ -38,6 +36,7 @@
 - **LinkedIn:** [Ishtiana Haque](https://linkedin.com/in/ishtiana-haque)  
 
 - 📫 How to reach me **ishtianahaque27@gmail.com**
+- <h3 align="left">📈 Projects</h3>
 -  **[Pizza Sales Analysis](https://github.com/Ishtiana/PIZZA_SALES):** Insights into customer preferences and sales patterns.  
 - **[Vending Machine Sales Analysis](https://github.com/Ishtiana/vending_machine_sales):** Optimized stock levels and product performance.  
 - **[Car-Master](https://github.com/Ishtiana/CAR-MASTER):** Efficient car registration and search management system.  
